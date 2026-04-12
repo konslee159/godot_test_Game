@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://db3x6hhv5s5yi"]
+
+[node name="Main" type="Node" unique_id=1103471065]
+
+[node name="MobTimer" type="Timer" parent="." unique_id=358237662]
+wait_time = 0.5
+
+[node name="ScoreTimer" type="Timer" parent="." unique_id=446029077]
+
+[node name="StartTimer" type="Timer" parent="." unique_id=848744667]
+wait_time = 2.0
+
+[node name="StartPosition" type="Marker2D" parent="." unique_id=1131292684]
