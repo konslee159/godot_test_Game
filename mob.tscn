@@ -48,7 +48,7 @@ animations = [{
 radius = 34.0
 height = 68.0
 
-[node name="Mob" type="RigidBody2D" unique_id=558584827]
+[node name="Mob" type="RigidBody2D" unique_id=558584827 groups=["mobs"]]
 collision_mask = 0
 gravity_scale = 0.0
 script = ExtResource("1_1qmh0")

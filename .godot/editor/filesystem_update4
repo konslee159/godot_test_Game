@@ -1,4 +1,6 @@
-res://player.tscn
+res://main.tscn
+res://HUD.tscn.cs
 res://Player.cs
+res://HUD.cs
+res://Main.cs
 res://Mob.cs
-res://mob.tscn

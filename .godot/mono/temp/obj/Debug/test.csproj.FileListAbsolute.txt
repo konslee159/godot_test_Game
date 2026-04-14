@@ -15,3 +15,4 @@ C:\Users\yi622\project\test\.godot\mono\temp\obj\Debug\refint\test.dll
 C:\Users\yi622\project\test\.godot\mono\temp\obj\Debug\test.pdb
 C:\Users\yi622\project\test\.godot\mono\temp\obj\Debug\test.genruntimeconfig.cache
 C:\Users\yi622\project\test\.godot\mono\temp\obj\Debug\ref\test.dll
+C:\Users\yi622\project\test\.godot\mono\temp\obj\Debug\test.sourcelink.json
